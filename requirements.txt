@@ -1,0 +1,7 @@
+requests=="*"
+google-api-python-client=="*"
+dash=="*"
+pandas=="*"
+pyowm=="*"
+python-dotenv=="*"
+python_version=="3.9"
