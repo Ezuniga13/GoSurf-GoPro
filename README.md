@@ -39,17 +39,19 @@ This project assumes that Mavericks beach has favorable geography for waves.
 The dashboard's main purpose is to track these conditions so that the user can make an educated decision to load up and head to the beach.
 
 # Data
-I collected data for this dashboard by making [Open Weather](https://openweathermap.org/api) and [Open Evlevation](https://open-elevation.com/) API calls from several of different end points to gather informatioin about weather events in the San Francisco area. 
+I collected data for this dashboard by making [Open Weather](https://openweathermap.org/api) and [Open Evlevation](https://open-elevation.com/) API calls from several different end points to gather information about weather events in the San Francisco area. 
 
 I am currently pulling historic weather, current weather by the minute, and the forecast for the next 48 hours and pushing the data to a SQLite3 db.
 
-The data is then queried from the database filtering the features mentioned above. 
-Then they are used directly into the graphs.
+The data is then queried from the database filtering the features mentioned above, 
+then used as inputs for the graphs.
 
 # Design
 
 ![main](/images/design.png) 
 
 # Demo
+Please press play and feel free to download it.
+
 [![Video Download](/images/dash-recording.mov)](https://user-images.githubusercontent.com/60893597/169880535-5a1b2c36-4dec-4701-b8b1-e10bc1544803.mov)
 
