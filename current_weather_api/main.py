@@ -6,7 +6,6 @@ import sqlite3
 from datetime import datetime, timedelta, timezone
 
 
-
 def get_current_api(lat, lon, API_KEY):
     own = pyowm.OWM(API_KEY)
     manager = own.weather_manager()
