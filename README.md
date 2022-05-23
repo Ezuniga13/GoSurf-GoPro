@@ -31,8 +31,8 @@ This project assumes that Mavericks beach has favorable geography for waves.
 
 *Offsure Factors*
 
- - If it is windy, rainy, and the barometric pressure is low offsure it will produce nice swells for surfers. 
- - If winds are strong 48 to 24 hours ago it will produce nice waves currently.
+ - If it is windy, rainy, and the barometric pressure is low offsure it will produce nice swells. 
+ - If winds are strong 48 to 24 hours ago and if it is a nice day currently, then it would be a good day to surf..
 
 ### Dashboard Purpose
 
