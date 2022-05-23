@@ -1,4 +1,3 @@
-
 from dash import Dash, html, dcc, Output, Input, State
 import plotly
 import plotly.express as px
