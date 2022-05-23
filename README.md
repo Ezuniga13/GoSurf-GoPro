@@ -48,8 +48,8 @@ Then they are used directly into the graphs.
 
 # Design
 
+![main](/images/design.png) 
 
-
-
+# Demo
 [![Video Download](/images/dash-recording.mov)](https://user-images.githubusercontent.com/60893597/169880535-5a1b2c36-4dec-4701-b8b1-e10bc1544803.mov)
 
