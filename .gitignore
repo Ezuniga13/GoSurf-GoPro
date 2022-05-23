@@ -1,0 +1,11 @@
+.env
+DS_Store
+*/.DS_Store
+*/*/.DS_Store
+vendor
+vendor/
+__pycache__/
+.env
+Pipfile.lock
+Pipfile*
+.dockerignore
